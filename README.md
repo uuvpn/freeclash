@@ -3,7 +3,7 @@
 
 ![image](https://github.com/user-attachments/assets/58ec3f76-a5b7-4e60-ab41-24378e7ba781)
 
-2024年7月20日,享受免费V2Ray节点优惠！我们提供4个更新的订阅链接以及10个极速节点，完美支持,Clash,V2rayN,等流行软件，帮助您畅快访问全球互联网,轻松访问免费代理，自由探索互联网的乐趣就在这里！
+享受免费V2Ray节点优惠！我们提供4个更新的订阅链接以及10个极速节点，完美支持,Clash,V2rayN,等流行软件，帮助您畅快访问全球互联网,轻松访问免费代理，自由探索互联网的乐趣就在这里！
 
 ### 一、说明介绍与机场推荐
 
@@ -21,13 +21,13 @@
 
 导入订阅地址直接使用
 
-https://uuvpn.cloud/api/v1/client/subscribe?token=645d6da7daa8e4c26abce7b41db43af6
+https://uuvpn.cloud/api/v1/client/subscribe?token=333337af77d79f3754d1efae5d1804c1
 
-https://uuvpn.cloud/api/v1/client/subscribe?token=f9c859fe1d49c28693306195ae2d0c26
+https://uuvpn.cloud/api/v1/client/subscribe?token=ae08537ec1817ec6b466091375e8077f
 
-https://uuvpn.cloud/api/v1/client/subscribe?token=d94a7aadae662272ea9a942ed787d063
+https://uuvpn.cloud/api/v1/client/subscribe?token=dd94f592f1ccfa5d4924bebacf8942b6
 
-https://uuvpn.cloud/api/v1/client/subscribe?token=6d90c2da9aa7cee3c0f0a503c87b3dad
+https://uuvpn.cloud/api/v1/client/subscribe?token=d61694b414f6f6ffcce65e19fd4d7834
 
 clash verge 测试速度超快，看油管4k无压力
 
